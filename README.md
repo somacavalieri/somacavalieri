@@ -1,6 +1,6 @@
 ## Hi, I'm Flavio
 
-Product builder. I write the spec, then build the thing — offline-first apps I use myself and small tools for product work, each one shipped with the document that argued it into existence.
+Twenty years building digital products. In the last few years, AI-assisted development dropped the cost of getting an idea out of my head far enough that I stopped living with problems no app on the market solved and started solving them myself. There have been dozens, nearly all of them for an audience of one. What's on this page is the subset where the problem turned out not to be mine alone.
 
 **[LinkedIn](https://www.linkedin.com/in/flaviosoma/)** · **[somacavalieri.com](https://somacavalieri.com)** · contato@somacavalieri.com
 
